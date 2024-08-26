@@ -4,8 +4,6 @@ import ProjectCard from '../../common/ProjectCard';
 
 import instrumoon from '../../assets/instrumoonC.png'
 import visionDrop from '../../assets/LOGO VISION.png'
-import hipsster from '../../assets/hipsster.png'
-import fitLift from '../../assets/fitLift.png'
 
 function Projects() {
   return (
